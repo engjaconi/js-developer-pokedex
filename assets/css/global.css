@@ -7,7 +7,8 @@ body {
     background-color: #f6f8fc;
 }
 
-.content {
+.content,
+main#container {
     width: 100vw;
     height: 100vh;
     padding: 1rem;
@@ -16,6 +17,7 @@ body {
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
+
 }
 
 .normal {
